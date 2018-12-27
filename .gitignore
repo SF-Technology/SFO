@@ -1,0 +1,7 @@
+test/test.py
+.idea/
+.npmrc
+*.pyc
+sfo_temp/passwd/
+**/__pycache__/
+*.py[cod]
