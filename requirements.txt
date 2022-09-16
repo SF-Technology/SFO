@@ -27,7 +27,7 @@ os-service-types==1.2.0
 oslo.config==6.2.1
 oslo.i18n==3.20.0
 oslo.serialization==2.25.0
-oslo.utils==3.36.2
+oslo.utils==4.10.1
 pbr==4.0.3
 psutil==5.4.3
 pyasn1==0.4.2
